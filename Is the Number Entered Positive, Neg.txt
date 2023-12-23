@@ -1,0 +1,32 @@
+                Is the Number Entered Positive, Negative or Zero
+
+
+QUESTION:Design the algorithm and flowchart that gives the message "positive" if the number entered is greater than zero,
+"negative" if it is less than zero, and "zero" if it is equal to zero.
+First, let's define a variable called number
+
+declare--->number
+
+output--->"Enter your number:"
+
+input--->number
+
+What we understand from this problem is that we will have 3 conditions here.
+
+if--->number==0
+if true
+output--->"your number is zero"
+
+if number>0 
+
+if true 
+
+output--->"your number is positive."
+
+if number<0
+
+if true
+
+output--->"your age is negative"
+
+-------------------------------------------------------------------------------------------------------------------------------------
